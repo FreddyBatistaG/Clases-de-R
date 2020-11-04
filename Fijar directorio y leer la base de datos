@@ -1,0 +1,6 @@
+##################################################
+##########Fijar el Directorio de Trabajo##########
+#################################################
+
+setwd (seleccionamos la ruta de la carpeta  donde tenemos guardados nuestros archivos de trabajo)
+setwd("C:/Users/STA MTA COMO VAMOS/Desktop/Freddy_R")
